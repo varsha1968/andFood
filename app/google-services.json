@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "719431063396",
+    "firebase_url": "https://pother-panchali.firebaseio.com",
+    "project_id": "pother-panchali",
+    "storage_bucket": "pother-panchali.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719431063396:android:6b57a1a704724a35c64c71",
+        "android_client_info": {
+          "package_name": "com.example.foodapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719431063396-6su38opq225krcd4ib8j3v08gr75g7u0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foodapp",
+            "certificate_hash": "c5901436925fa5193df80dc6b641da06d9cdf7e8"
+          }
+        },
+        {
+          "client_id": "719431063396-s61hi4iu7vk23ecatbalfs1dkp6dnhfu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaEg30eWyjBPU2nG8a7TkoOfoZIw4Djlo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719431063396-s61hi4iu7vk23ecatbalfs1dkp6dnhfu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
